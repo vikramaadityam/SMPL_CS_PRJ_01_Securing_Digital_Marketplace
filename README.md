@@ -206,13 +206,3 @@ This project provided hands-on experience in identifying and exploiting common w
 This project was conducted exclusively in a controlled educational environment using OWASP Juice Shop, an intentionally vulnerable application designed for cybersecurity training and learning purposes.
 
 The techniques demonstrated in this project should only be used on systems where explicit authorization has been granted.
-
----
-
-## Author
-
-**Ashish Yadav**
-
-Cybersecurity Enthusiast | Aspiring SOC Analyst | Security Researcher
-
-Connect with me on LinkedIn and GitHub to follow my cybersecurity learning journey and projects.
