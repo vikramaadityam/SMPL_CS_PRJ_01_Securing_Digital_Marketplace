@@ -191,7 +191,7 @@ Extraction of database information through SQL Injection exploitation.
 
 A detailed report containing methodology, testing procedures, screenshots, findings, risk analysis, and remediation recommendations is available in the repository.
 
-📄 **Report:** `Report/Securing_the_Digital_Marketplace_Report.pdf`
+📄 **Report:** `Project Report/Securing the Digital Marketplace Strengthening Security for Vulnerable Websites Project.pdf`
 
 ---
 
