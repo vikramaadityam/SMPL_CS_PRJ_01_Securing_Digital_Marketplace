@@ -103,31 +103,31 @@ All findings were documented with evidence, risk analysis, impact assessment, an
 
 Demonstrates unauthorized access to sensitive files through manipulated HTTP requests.
 
-![Sensitive Data Exposure](Screenshots/02_Sensitive_Data_Exposure.png)
+![Sensitive Data Exposure](Screenshots/01_Sensitive_Data_Exposure.png)
 
 ### Cross-Site Scripting (XSS)
 
 Validation of XSS vulnerability through execution of a malicious payload.
 
-![XSS Vulnerability](Screenshots/03_XSS_Vulnerability.png)
+![XSS Vulnerability](Screenshots/02_XSS_Vulnerability.png)
 
 ### SQL Injection Authentication Bypass
 
 Successful authentication bypass using SQL Injection techniques.
 
-![SQL Injection](Screenshots/04_SQL_Injection_Login_Bypass.png)
+![SQL Injection](Screenshots/03_SQL_Injection_Login_Bypass.png)
 
 ### Broken Access Control
 
 Unauthorized access to administrative functionality.
 
-![Broken Access Control](Screenshots/06_Broken_Access_Control.png)
+![Broken Access Control](Screenshots/04_Broken_Access_Control.png)
 
 ### Database Exfiltration via SQL Injection
 
 Extraction of database information through SQL Injection exploitation.
 
-![Database Exfiltration](Screenshots/07_Database_Exfiltration_SQLi.png)
+![Database Exfiltration](Screenshots/05_Database_Exfiltration_SQLi.png)
 
 ---
 
